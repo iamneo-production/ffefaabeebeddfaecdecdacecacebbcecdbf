@@ -8,7 +8,8 @@ New-Item -itemtype Directory -Path $HOME\Testing\SubFolder2
 }
 
 $x=4
-while ($x -le 7)
+while ($x -le 6cd $)
 {
     New-item -ItemType File -Path "$HOME\Testing\SubFolder2\Test$x.txt"
+    $x=$x+1
 }
