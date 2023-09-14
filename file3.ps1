@@ -1,0 +1,5 @@
+$date = Read-Host "Enter day(DD)"
+$month = Read-Host "Enter month(MM)"
+$year = Read-Host "Enter year(YYYY)"
+$DOB = "$date-$month-$year"
+Write-Host "Date of Birth: $DOB"
