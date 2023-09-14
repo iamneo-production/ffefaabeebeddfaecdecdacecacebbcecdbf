@@ -1,1 +1,1 @@
-New-Item -itemtype Directory -Path PS /home/coder/project/workspace\newfolder2
+New-Item -itemtype Directory -Path home/coder/project/workspace\newfolder2
