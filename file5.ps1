@@ -1,0 +1,1 @@
+New-Item -itemtype Directory -Path PS /home/coder/project/workspace\newfolder2
