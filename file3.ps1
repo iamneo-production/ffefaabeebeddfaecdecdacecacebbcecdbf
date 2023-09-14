@@ -1,0 +1,1 @@
+$date = Read-Host "Enter day(D)"
