@@ -1,1 +1,1 @@
-new -itemtype test.txt
+new -itemtype -Path $WORKSPACE\test.txt
